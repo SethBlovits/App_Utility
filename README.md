@@ -33,7 +33,7 @@ int main(){
         .event_func = event,
         .width = 800,
         .height = 600
-    });
+    }); 
     app_mainline();
 }
 ```
