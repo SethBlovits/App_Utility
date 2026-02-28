@@ -20,3 +20,4 @@ int main(){
     app_mainline();
 }
 ```
+The width and height parameters are the dimensions of your application window.
